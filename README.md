@@ -72,5 +72,5 @@ I'm currently building a full-stack web application to help urban communities sw
   <img src="https://github-profile-trophy.vercel.app/?username=Antor789&theme=tokyonight" alt="Antor's GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://github.com/Antor789/Antor789/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Antor789/Antor789/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
