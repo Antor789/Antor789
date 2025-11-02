@@ -59,6 +59,18 @@ I'm currently building a full-stack web application to help urban communities sw
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Antor789&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Antor's GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Antor789&theme=tokyonight" alt="Antor's GitHub Streak" />
+</p>
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antor789&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Antor's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Antor789&theme=tokyonight" alt="Antor's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="https://github.com/Antor789/Antor789/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
