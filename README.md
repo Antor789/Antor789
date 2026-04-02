@@ -1,74 +1,55 @@
-# Hi there, I'm Antor 👋
+# 💫 About Me
 
-I'm a developer and data science enthusiast with a passion for building real-world applications from the ground up.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ummet%20Hasan%20Antor&fontSize=70" />
+</p>
 
-- 🔭 I’m currently building **Urban Farming & Swap Produce**, a full-stack community app using React and Firebase.
-- 🌱 I’m always learning, with a current focus on AI models, data analysis, and web automation with Selenium.
-- 💬 Ask me about: **React**, **Java**, **Firebase**, or **Project Management (SDLC)**!
+<p align="center">
+  <a href="https://linkedin.com/in/ummet-hasan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codemindstech.xyz/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+### 👨‍💻 I'm a Developer & Data Science Enthusiast
+I bridge the gap between building high-performance web applications and extracting insights from data. Currently focused on full-stack community apps and web automation.
+
+- 🔭 **Currently Working On:** [Urban Farming & Swap Produce](https://github.com/Antor789) – A community-driven React & Firebase app.
+- 🌱 **Learning & Exploring:** AI Model Training, Advanced Data Analysis, and Selenium-based automation.
+- 💬 **Ask Me About:** React, Firebase, Java, and SDLC Project Management.
+- ⚡ **Fun Fact:** I love building tools that automate repetitive tasks to save time for creativity!
 
 ---
 
-## 💻 My Tech Stack
+### 🚀 Tech Stack
 
-Here are the primary technologies I work with:
+<div align="center">
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend & DB** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Firestore-FFC24A?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Firestore" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  
-</p>
+</div>
 
-### Data & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antor789&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antor789&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
 
-## 🌿 Pinned Project: Urban Farming & Swap Produce
-
-I'm currently building a full-stack web application to help urban communities swap and share produce.
-
-- **Features:** User authentication, real-time messaging, image uploads (Firebase Storage), live search, and profile management.
-- **Tech:** React (Vite) and a full Firebase backend (Firestore, Auth, Storage).
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antor789&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Antor's GitHub Stats" />
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.facebook.com/ummethasan.antor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ummethasan.antor" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ummet_antor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ummet_antor" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ummet-hasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ummet-hasan" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Antor789&theme=tokyonight" alt="Antor's GitHub Streak" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Antor789&label=Profile%20views&color=0e75b6&style=flat" alt="Antor789" /> 
 </p>
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antor789&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Antor's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Antor789&theme=tokyonight" alt="Antor's GitHub Trophies" />
-</p>
->
