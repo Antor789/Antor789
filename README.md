@@ -2,18 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ummet%20Hasan%20Antor&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Enthusiast%20%7C%20Automation%20Builder&descAlignY=58&descSize=17" />
 
-<a href="https://linkedin.com/in/ummet-hasan">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://codemindstech.xyz/">
-  <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/ummethasan.antor">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/ummet_antor">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/ummet-hasan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codemindstech.xyz/"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://www.facebook.com/ummethasan.antor"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/ummet_antor"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -22,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Ummet+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%26+Next.js;Backend+Dev+%7C+FastAPI+%26+Node.js;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Automation+Engineer+%7C+Selenium+%26+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ummet+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%26+Next.js;Backend+Dev+%7C+FastAPI+%26+Node.js;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Automation+Engineer+%7C+Selenium+%26+Python" alt="Typing SVG" />
 
 </div>
 
@@ -35,30 +27,12 @@
 I'm a passionate **Full-Stack Developer** and **Data Science Enthusiast** from Bangladesh 🇧🇩, focused on building scalable web applications, intelligent data pipelines, and powerful automation tools. I believe great software is the intersection of clean engineering and creative problem-solving.
 
 <table>
-  <tr>
-    <td>🔭 <strong>Currently Building</strong></td>
-    <td>Full-stack community applications with real-time features</td>
-  </tr>
-  <tr>
-    <td>🌱 <strong>Currently Learning</strong></td>
-    <td>AI Model Training · LLM Fine-tuning · Advanced Selenium Automation</td>
-  </tr>
-  <tr>
-    <td>💬 <strong>Ask Me About</strong></td>
-    <td>React · Next.js · FastAPI · Firebase · Java · SDLC Management</td>
-  </tr>
-  <tr>
-    <td>🤝 <strong>Open To</strong></td>
-    <td>Collaborations · Freelance Projects · Open Source Contributions</td>
-  </tr>
-  <tr>
-    <td>⚡ <strong>Fun Fact</strong></td>
-    <td>I automate repetitive tasks so humans can focus on what truly matters</td>
-  </tr>
-  <tr>
-    <td>📍 <strong>Location</strong></td>
-    <td>Dhaka, Bangladesh</td>
-  </tr>
+  <tr><td>🔭 <strong>Currently Building</strong></td><td>Full-stack community applications with real-time features</td></tr>
+  <tr><td>🌱 <strong>Currently Learning</strong></td><td>AI Model Training · LLM Fine-tuning · Advanced Selenium Automation</td></tr>
+  <tr><td>💬 <strong>Ask Me About</strong></td><td>React · Next.js · FastAPI · Firebase · Java · SDLC Management</td></tr>
+  <tr><td>🤝 <strong>Open To</strong></td><td>Collaborations · Freelance Projects · Open Source Contributions</td></tr>
+  <tr><td>⚡ <strong>Fun Fact</strong></td><td>I automate repetitive tasks so humans can focus on what truly matters</td></tr>
+  <tr><td>📍 <strong>Location</strong></td><td>Dhaka, Bangladesh</td></tr>
 </table>
 
 ---
@@ -113,7 +87,7 @@ I'm a passionate **Full-Stack Developer** and **Data Science Enthusiast** from B
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Antor789&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Antor789&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" />
 
 <br/><br/>
 
@@ -131,7 +105,7 @@ I'm a passionate **Full-Stack Developer** and **Data Science Enthusiast** from B
 ## 🔥 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antor789&theme=react-dark&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true&area=true&area_color=A855F722" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Antor789&theme=react-dark&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&hide_border=true&area=true" />
 </div>
 
 ---
@@ -152,7 +126,7 @@ class UmmetHasan:
         self.available   = True  # Open to work & collaborations!
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Let's build something amazing together 🚀")
 
 me = UmmetHasan()
 me.say_hi()
@@ -168,7 +142,7 @@ I'm always open to exciting projects, collaborations, or just a good tech conver
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ummet-hasan)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ummet-hasan)
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codemindstech.xyz/)
 [![Facebook](https://img.shields.io/badge/Follow%20on%20Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ummethasan.antor)
 [![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ummet_antor)
